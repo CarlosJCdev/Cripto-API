@@ -1,0 +1,87 @@
+.logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
+
+@media (min-width: 768px){
+header.masthead {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
+}
+header.masthead{
+  position: relative;
+    background-color: #343a40;
+    background-size: cover;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+}
+.form-row {
+  display: -ms-flexbox;
+  display: inline-flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -5px;
+  margin-left: -5px;
+}
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  text-align: center;
+}
+.features-icons{
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+}
+.features-icons .features-icons-item .features-icons-icon i {
+  font-size: 4.5rem;
+}
+.overlay{
+  padding-top: 3.5rem;
+  padding-bottom: 2rem;
+}
+.col-lg {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.testimonials{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+footer.footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.mensajes {
+  color: white;
+}
+#resultado {
+  text-align: center;
+}
+.caja{
+  border-color: black;
+  height: 15rem;
+}
+.moneda{
+ align-content: center;
+ }
+.form-control-lg {
+  height: calc(1.5em + 1rem + 2px);
+  padding: .5rem 1rem;
+font-size: 1rem; 
+  line-height: 1.5;
+  border-radius: .3rem;
+}
+.container1 {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 20px;
+}
